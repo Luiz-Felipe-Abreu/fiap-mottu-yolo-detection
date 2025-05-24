@@ -2,6 +2,7 @@
 
 Este projeto aplica técnicas de **Visão Computacional com Inteligência Artificial** para detectar, rastrear e mapear a localização de motos em pátios de filiais da empresa **Mottu**. Utilizando o modelo **YOLOv8**, o sistema é capaz de identificar motos automaticamente em imagens e exibir suas posições em um **mapa 2D** interativo, facilitando o monitoramento da frota.
 
+Link da demonstração do sistema: https://www.youtube.com/watch?v=M1wSZYwTVlc&ab_channel=LuizFelipe
 ---
 
 ## 🧪 Tecnologias Utilizadas
